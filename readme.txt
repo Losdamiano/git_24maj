@@ -1,1 +1,1 @@
-To jest przykładowy projekt kalkulatora w Pajtonie.
+To jest przykładowy projekt kalkulatora w Pajtonie. Pracujemy nad nim zeby obejrzec funkcje gita.
